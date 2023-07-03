@@ -17,7 +17,7 @@ setup(
     description="Large language model to corpus",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Softcatala/whisper-ctranslate2",
+    url="https://github.com/jordimas/llm-to-corpus/",
     author="Jordi Mas",
     author_email="jmas@softcatala.org",
     license="MIT",
