@@ -1,3 +1,5 @@
+[![PyPI version](https://img.shields.io/pypi/v/llm-to-corpus.svg?logo=pypi&logoColor=FFE873)](https://pypi.org/project/llm-to-corpus/)
+
 # Introduction
 
 The goal of this tool is to apply Large Language Models operations to monolingual corpus to generate parallell corpus.
