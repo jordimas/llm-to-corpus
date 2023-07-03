@@ -1,0 +1,5 @@
+openai==0.27
+ctranslate2==3.16
+transformers
+google-generativeai==0.1.0
+google-cloud-aiplatform[pipelines]==1.26.0
